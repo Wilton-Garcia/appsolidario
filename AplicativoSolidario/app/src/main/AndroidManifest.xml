@@ -23,6 +23,10 @@
         <activity
             android:name=".Donativos"
             android:label="@string/title_activity_donativos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Solicitacao"
+            android:label="@string/title_activity_solicitacao"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

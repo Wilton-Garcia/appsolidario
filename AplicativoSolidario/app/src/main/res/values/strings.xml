@@ -4,4 +4,5 @@
     <string name="title_activity_donativos">Donativos</string>
     <string name="aplicativo_solid_rio">Aplicativo Solidário</string>
     <string name="pesquisar">Pesquisar</string>
+    <string name="title_activity_solicitacao">Solicitacao</string>
 </resources>
